@@ -1,0 +1,11 @@
+{
+  "model": "LSTM",
+  "parameters": 545997,
+  "epochs": 17,
+  "best_epoch": 14,
+  "training_seconds": 27.412956852000207,
+  "validation_loss": 5.9195027351379395,
+  "test_loss": 6.058135509490967,
+  "test_perplexity": 427.57747904650745,
+  "test_accuracy": 0.1178692877292633
+}

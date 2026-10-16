@@ -1,0 +1,11 @@
+{
+  "model": "SimpleRNN",
+  "parameters": 471885,
+  "epochs": 10,
+  "best_epoch": 7,
+  "training_seconds": 52.040563045,
+  "validation_loss": 5.756981372833252,
+  "test_loss": 5.89464807510376,
+  "test_perplexity": 363.0890333413834,
+  "test_accuracy": 0.11333585530519485
+}

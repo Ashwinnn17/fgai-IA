@@ -1,0 +1,11 @@
+{
+  "model": "BidirectionalRNN",
+  "parameters": 793165,
+  "epochs": 6,
+  "best_epoch": 3,
+  "training_seconds": 49.81908071499993,
+  "validation_loss": 5.929381370544434,
+  "test_loss": 6.035761833190918,
+  "test_perplexity": 418.1172239125191,
+  "test_accuracy": 0.08915753662586212
+}

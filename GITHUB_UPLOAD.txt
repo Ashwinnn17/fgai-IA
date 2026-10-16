@@ -1,0 +1,9 @@
+1. Extract this ZIP on your computer.
+2. Create a GitHub repository named fgai-autoregressive-text-generation (or a name you prefer).
+3. Upload the contents of AliceText_GitHub, including the notebook, README, requirements, config, data, results and plots folders. Upload extracted files, not the ZIP itself.
+4. Check that the README graphs display and the notebook and CSV files open.
+5. If the repository is private, grant the evaluator access.
+6. Copy the repository URL for the submission document.
+7. Provide your exact student name and registration number to prepare the required Word/PDF submission cover document.
+
+Review the AI-assisted discussion before submitting and follow your course's disclosure requirements. The package does not include trained weights; rerunning the notebook trains the models. No retraining is needed to upload the recorded results.

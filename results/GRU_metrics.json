@@ -1,0 +1,11 @@
+{
+  "model": "GRU",
+  "parameters": 521677,
+  "epochs": 9,
+  "best_epoch": 6,
+  "training_seconds": 13.790460624999923,
+  "validation_loss": 5.6887288093566895,
+  "test_loss": 5.789616107940674,
+  "test_perplexity": 326.8875107659974,
+  "test_accuracy": 0.12995845079421997
+}

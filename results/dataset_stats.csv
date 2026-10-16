@@ -1,0 +1,4 @@
+split,words_used,sequences,unknown_fraction
+train,21328,21308,0.0
+validation,2666,2646,0.08627156789197299
+test,2667,2647,0.08548931383577053
